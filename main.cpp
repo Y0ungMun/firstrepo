@@ -6,6 +6,6 @@ int main(){
 	std::cout << "what is your name?" << std::endl;
 		std::cin >> name;
 	std::cout << "Hello" << name << "!" <<  std::endl;
-	return 1;
+	return 0;
 }
 
